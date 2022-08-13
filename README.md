@@ -5,9 +5,17 @@ For this capstone project I analyzed 911 call data from a Kaggle data set levera
 
 
 Additionally I created a timeStamp column to determine which days of the week and months had the most 911 calls by department. Below is a breakdown of my results: 
+![capstone_project_pic_2.png](capstone_project_pic_2.png)
 
+![capstone_project_pic_3.png](capstone_project_pic_3.png)
 
 Observation about how there must have been a really bad car crash in February.
 
+![capstone_project_pic_4.png](capstone_project_pic_4.png)
+
+![capstone_project_pic_5.png](capstone_project_pic_5.png)
 
 Cool heatmaps
+![capstone_project_pic_6.png](capstone_project_pic_6.png)
+
+![capstone_project_pic_7.png](capstone_project_pic_7.png)
