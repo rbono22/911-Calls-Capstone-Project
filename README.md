@@ -19,8 +19,11 @@ Then I took a step back and focused on each month between 2015 to 2020 to analyz
 
 As you will notice, the above graph is missing data for a few months. I accounted for this by filling in information by creating a groupby object called byMonth, where I grouped the DataFrame by the month column and used the count() method for aggregation. I also leveraged seaborn's lmplot() to create a linear fit on the number of calls per month to determine is my plot is accurate. 
 
-Below is a simple line plot that fills in the missing months:
+### My simple line plot that fills in the missing months:
+![my_aggregation_attempt.png](my_aggregation_attempt.png)
 
+### Seaborn's lmplot()
+![seaborns_attempt.png](seaborns_attempt.png)
 
 Observation about how there must have been a really bad car crash in February.
 
