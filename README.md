@@ -52,10 +52,13 @@ In 2016, I noticed that there were around 55 calls made to the fire department e
 ### 2016 EMS Department 911 Calls 
 ![ems_2016.png](ems_2016.png)
 
-In 2016, I noticed that there were around 150 calls made to the traffic department each month. However, towards the end of January there is an outlier of around 550 calls made to the traffic department. The extra 400 calls were likely due to some catastrophic event on the highway, such as a horrific car accident. Furthermore the beginning og May had the fewest calls with around 50 calls made. I believe the May 1, 2016 was the safest day to drive on the highway.
+In 2016, I noticed that there were around 150 calls made to the ems department each month. Towards the end of January, there was an annual high of 250 calls in a day. The extra 100 calls was likely due to some catastrophic event. Furthermore the beginning of May had the fewest calls with around 75 calls made. 
+
+### Heatmap Visuals
+
+Below are a few heatmaps I created with seaborn to confirm my initial my analysis. In order to create these visuals I restructured the dataframe so that the columns become the Hours and the Index becomes the Day of the Week.
 
 
-Cool heatmaps
 ![capstone_project_pic_6.png](capstone_project_pic_6.png)
 
 ![capstone_project_pic_7.png](capstone_project_pic_7.png)
