@@ -39,8 +39,21 @@ After observing the data at a high level by departement, and timestamp in genera
 
 ![capstone_project_pic_4.png](capstone_project_pic_4.png)
 
-### 2016 
+### 2016 Traffic Department 911 Calls
 ![capstone_project_pic_5.png](capstone_project_pic_5.png)
+
+In 2016, I noticed that there were around 150 calls made to the traffic department each month. However, towards the end of January there is an outlier of around 550 calls made to the traffic department. The extra 400 calls were likely due to some catastrophic event on the highway, such as a horrific car accident. Furthermore the beginning of May had the fewest calls with around 50 calls made. I believe around May 1, 2016 was the safest day to drive on the highway, and around January 20 was the most dangerous day.
+
+### 2016 Fire Department 911 Calls 
+![fire_2016.png](fire_2016.png)
+
+In 2016, I noticed that there were around 55 calls made to the fire department each month. However, there were a few outliers of around 160 calls made in mid-January, 120 calls made in the middle of February, 170 calls made toward the end of February (the 2016 fire department high of 911 calls in a day), 145 calls made in the beginning of April, and 160 calls made towards the end of July. The extra 100 or so calls were likely due to some catastrophic fire event, such as a house-fire or wildfire. Furthermore the beginning of May and October had the fewest calls with around 50 calls made. I believe that around May 1 and October 1 of 2016 were the safest days, and February was the most dangerous month in regards to fire safety hazards.
+
+### 2016 EMS Department 911 Calls 
+![ems_2016.png](ems_2016.png)
+
+In 2016, I noticed that there were around 150 calls made to the traffic department each month. However, towards the end of January there is an outlier of around 550 calls made to the traffic department. The extra 400 calls were likely due to some catastrophic event on the highway, such as a horrific car accident. Furthermore the beginning og May had the fewest calls with around 50 calls made. I believe the May 1, 2016 was the safest day to drive on the highway.
+
 
 Cool heatmaps
 ![capstone_project_pic_6.png](capstone_project_pic_6.png)
