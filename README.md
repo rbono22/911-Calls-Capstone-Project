@@ -37,9 +37,14 @@ Below is a heatmap breaking down the most and least popular hours of the day by 
 
 ![capstone_project_pic_6.png](capstone_project_pic_6.png)
 
-I reindexed the heatmap to be in order by most to least 911 calls by day. The most 911 calls occur on Tuesdays, whiule the least occur on Sunday:
+I reindexed the heatmap to be in order by most to least 911 calls by day. The visualization reveals that the most 911 calls occur on Tuesdays, while the least occur on Sunday:
 
 ![capstone_project_pic_7.png](capstone_project_pic_7.png)
+
+My final heatmap takes into account the most 911 calls by day of the week by month. The visualization reveals that August Saturdays have the least amount of 911 calls, while January Saturdays have the most 911 calls. Additionally December overall is the most peaceful month for all 911 responders:
+
+![heatmap_daybymonth.png](heatmap_daybymonth.png)
+
 
 ## Diving Deeper
 
@@ -63,3 +68,6 @@ In 2016, I noticed that there were around 55 calls made to the fire department e
 ![ems_2016.png](ems_2016.png)
 
 In 2016, I noticed that there were around 150 calls made to the ems department each month. Towards the end of January, there was an annual high of 250 calls in a day. The extra 100 calls was likely due to some catastrophic event. Furthermore the beginning of May had the fewest calls with around 75 calls made. 
+
+## Conclusions
+Ultimately if I was a citizen of the five townships in the dataset I would recommend living in Cheltenham or in the 19406 zip code as they have the least amount of 911 calls, and likely are safer. Regardless of your location, I recommend driving closer to the speed limit and following fire precautions tightly between January to March as there is a higher number of 911 calls for the traffic and fire departments over those months. Additionally I would be extra cautious on Saturdays in January, and anxiety-free Sundays in December (per the heatmaps). Finally I would be extra cautious transitioning into the new year as the amount of 911 calls increases by nearly 20% from December to January for all departments.
