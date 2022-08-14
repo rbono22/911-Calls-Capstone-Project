@@ -31,6 +31,16 @@ As you will notice, the above graph is missing data for a few months. I accounte
 
 Ultimately my aggregation and Seaborn's lmplot() assume that September, October, and November is trending downwards for total 911 calls. With my methodology, September had around 8,750 calls, October had around 8,500 calls, and November had around 8,250 calls. Seaborn estimates that September was between 9,000 to 11,900 calls (likely 9,500 calls), October was between 8,500 to 11,990 calls (likely 9,250 calls), and November was between 8,000 to 11,990 calls (likely 9,000 calls). I believe both models are effective as Seaborn provides a more accurate range of calls, but my aggregated model is likely a more accurate representation of the total 911 calls.
 
+### Heatmap Visualizations
+
+Below is a heatmap breaking down the most and least popular hours of the day by days of the week for 911 calls over all. The most 911 calls occur in general between the hours of 7-17 regardless of the day of the week, which makes sense as these are the typical hours people are awake and going about their day:
+
+![capstone_project_pic_6.png](capstone_project_pic_6.png)
+
+I reindexed the heatmap to be in order by most to least 911 calls by day. The most 911 calls occur on Tuesdays, whiule the least occur on Sunday:
+
+![capstone_project_pic_7.png](capstone_project_pic_7.png)
+
 ## Diving Deeper
 
 ### 2016 Aggregated 911 Calls Data
@@ -53,12 +63,3 @@ In 2016, I noticed that there were around 55 calls made to the fire department e
 ![ems_2016.png](ems_2016.png)
 
 In 2016, I noticed that there were around 150 calls made to the ems department each month. Towards the end of January, there was an annual high of 250 calls in a day. The extra 100 calls was likely due to some catastrophic event. Furthermore the beginning of May had the fewest calls with around 75 calls made. 
-
-### Heatmap Visuals
-
-Below are a few heatmaps I created with seaborn to confirm my initial my analysis. In order to create these visuals I restructured the dataframe so that the columns become the Hours and the Index becomes the Day of the Week.
-
-
-![capstone_project_pic_6.png](capstone_project_pic_6.png)
-
-![capstone_project_pic_7.png](capstone_project_pic_7.png)
