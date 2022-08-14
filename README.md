@@ -25,6 +25,8 @@ As you will notice, the above graph is missing data for a few months. I accounte
 ### Seaborn's lmplot()
 ![seaborns_attempt.png](seaborns_attempt.png)
 
+Ultimately my aggregation and Seaborn's lmplot() assume that September, October, and November is trending downwards for total 911 calls. With my methodology, September had around 8,750 calls, October had around 8,500 calls, and November had around 8,250 calls. Seaborn estimates that September was between 9,000 to 11,900 calls (likely 9,500 calls), October was between 8,500 to 11,990 calls (likely 9,250 calls), and November was between 8,000 to 11,990 calls (likely 9,000 calls). I believe both models are effective as Seaborn provides a more accurate range of calls, but my aggregated model is likely a more accurate representation of the total 911 calls.
+
 Observation about how there must have been a really bad car crash in February.
 
 ![capstone_project_pic_4.png](capstone_project_pic_4.png)
