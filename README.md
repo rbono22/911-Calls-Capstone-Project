@@ -6,15 +6,15 @@ For this capstone project I analyzed 911 call data from a Kaggle data set levera
 
 The data contains the following fields:
 
-* lat : String variable, Latitude *
+* lat : String variable, Latitude
 * lng: String variable, Longitude
-desc: String variable, Description of the Emergency Call
-zip: String variable, Zipcode
-title: String variable, Title
-timeStamp: String variable, YYYY-MM-DD HH:MM:SS
-twp: String variable, Township
-addr: String variable, Address
-e: String variable, Dummy variable (always 1)
+* desc: String variable, Description of the Emergency Call
+* zip: String variable, Zipcode
+* title: String variable, Title
+* timeStamp: String variable, YYYY-MM-DD HH:MM:SS
+* twp: String variable, Township
+* addr: String variable, Address
+* e: String variable, Dummy variable (always 1)
 
 ### Calls by Department
 ![capstone_project_pic_1.png](capstone_project_pic_1.png)
