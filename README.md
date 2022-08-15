@@ -7,7 +7,7 @@ For this capstone project I analyzed 911 call data from a Kaggle data set levera
 The data contains the following fields:
 
 * lat : String variable, Latitude *
-lng: String variable, Longitude
+* lng: String variable, Longitude
 desc: String variable, Description of the Emergency Call
 zip: String variable, Zipcode
 title: String variable, Title
