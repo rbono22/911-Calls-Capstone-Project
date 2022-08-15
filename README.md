@@ -4,6 +4,18 @@
 
 For this capstone project I analyzed 911 call data from a Kaggle data set leveraging the NumPy, Pandas, Matplotlib, and Seaborn libraries. I found that the zip code 19401 had the most 911 calls with 6979 reported calls, while Lower Merion had the highest 911 calls of all townships with 8443 calls. Furthermore I created visualizations to understand the reasons/departments for a 911 call, and the most popular days of the week and months of the year with average 911 calls. Below are my results.
 
+The data contains the following fields:
+
+lat : String variable, Latitude
+lng: String variable, Longitude
+desc: String variable, Description of the Emergency Call
+zip: String variable, Zipcode
+title: String variable, Title
+timeStamp: String variable, YYYY-MM-DD HH:MM:SS
+twp: String variable, Township
+addr: String variable, Address
+e: String variable, Dummy variable (always 1)
+
 ### Calls by Department
 ![capstone_project_pic_1.png](capstone_project_pic_1.png)
 
